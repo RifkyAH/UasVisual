@@ -2,7 +2,8 @@
 Nama : Rifky Abdillah Hasan </n>
 NIM : 312110164 </n>
 <h1>Laporan</h1></n>
-![Screenshot (122)](https://github.com/RifkyAH/UasVisual/assets/93238755/fd92fff1-5015-4b8f-a140-eaaa6f18c884)</n>
+
+![Screenshot (122)](https://github.com/RifkyAH/UasVisual/assets/93238755/199e9588-140b-4c11-910e-bb48bd8c1bd8)
 Tampilan menu utama yang berfungsi sebagai hub/perantara menuju form lainnya</n>
 ![Screenshot (123)](https://github.com/RifkyAH/UasVisual/assets/93238755/a5d92b3d-aa6f-4269-98f3-33b0570be48e)</n>
 Seperti yang disebut dalam video kita diharuskan untuk melakukan login agar bisa mengakses form lainnya</n>
