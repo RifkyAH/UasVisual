@@ -18,4 +18,4 @@ Setelah melakukan transaksi maka akan muncul struk pembayaran
 ![Screenshot (126)](https://github.com/RifkyAH/UasVisual/assets/93238755/edd413cc-4c41-4323-bff3-f1ca0eb2ff82)</n>
 untuk melihat record transaksi yang sudah dilakukan bisa melihatnya di form laporan
 <h1>Link Video</h1></n>
-https://youtu.be/OBPoSYdajjQ![Uploading Screenshot (123).png…]()
+https://youtu.be/OBPoSYdajjQ
